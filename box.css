@@ -9,4 +9,11 @@
   width: 100px;
   height: 100px;
   background-color: blue;
+  
+  border: solid black;
+  border-top-width: 5px;
+  border-right-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px
+
 }
